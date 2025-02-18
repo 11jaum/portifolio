@@ -10,6 +10,7 @@ body {
 
 header {
     background-color: #202020;
+    height: 300px;
 }
 
 .nav-bar {
@@ -21,7 +22,7 @@ header {
 }
 
 .logo img {
-    width: 95px;
+    width: 100px;
     height: auto;
 }
 
